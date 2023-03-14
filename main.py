@@ -16,3 +16,10 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # Adding new comment on GitHub
 # Adding new comment on PyCharm in remote master
+
+
+#name = input("Name: ")
+#print(name, "Murphy?")
+
+string = "test".partition("t")
+print(string)
